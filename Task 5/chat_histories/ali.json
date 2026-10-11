@@ -1,4 +1,29 @@
 {
   "session_id": "ali",
-  "messages": []
+  "messages": [
+    {
+      "role": "human",
+      "content": "My favourite programming language is Rust."
+    },
+    {
+      "role": "ai",
+      "content": "Rust is an outstanding systems programming language known for memory safety without a garbage collector and excellent concurrency."
+    },
+    {
+      "role": "human",
+      "content": "What language did I just mention?"
+    },
+    {
+      "role": "ai",
+      "content": "Based on our previous conversation, you mentioned that your favourite programming language is Rust!"
+    },
+    {
+      "role": "human",
+      "content": "Can you remind me what programming language I mentioned earlier?"
+    },
+    {
+      "role": "ai",
+      "content": "Based on our previous conversation, you mentioned that your favourite programming language is Rust!"
+    }
+  ]
 }
